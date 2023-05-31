@@ -1,5 +1,8 @@
 # Battleship
 
+![image](https://github.com/Pocketzs/battleship2023/assets/110859604/a372521a-4f78-4ddf-bc42-ee9d5bd8af0c)
+
+
 This project will use Ruby to build a command line implementation of the classic game Battleship.
    
 ## Background
